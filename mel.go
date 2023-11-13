@@ -1,4 +1,4 @@
-package mel
+package everglow
 
 import "math"
 
